@@ -1,0 +1,5229 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "scaper",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 180.0,
+          "value": {
+            "label": "water",
+            "source_file": "audio/soundbank/background/water/4_long2.wav",
+            "source_time": 0,
+            "event_time": 0,
+            "event_duration": 180.0,
+            "snr": 0,
+            "role": "background",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 0.0,
+          "duration": 180.0,
+          "value": {
+            "label": "water",
+            "source_file": "audio/soundbank/background/water/6_long2.wav",
+            "source_time": 0,
+            "event_time": 0,
+            "event_duration": 180.0,
+            "snr": 0,
+            "role": "background",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 5.246926513872749,
+          "duration": 1.7654145603752955,
+          "value": {
+            "label": "mando",
+            "source_file": "audio/soundbank/fore/mando/mandolin_C5_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 5.246926513872749,
+            "event_duration": 3.369002,
+            "snr": 8.237236924166723,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5240170710421945
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 6.761063285342663,
+          "duration": 7.771356729376676,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C3_very-long_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 6.761063285342663,
+            "event_duration": 6.451995,
+            "snr": 2.728472406766725,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.204488957194895
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 12.639731461076018,
+          "duration": 0.6959091418407959,
+          "value": {
+            "label": "boner",
+            "source_file": "audio/soundbank/fore/boner/trombone_C4_1_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 12.639731461076018,
+            "event_duration": 0.913991,
+            "snr": 8.476645342290198,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7613960551480221
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 14.473821663107113,
+          "duration": 1.8282314689512729,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/fore/viola/viola_C4_1_mezzo-forte_arco-major-trill.mp3",
+            "source_time": 0.0,
+            "event_time": 14.473821663107113,
+            "event_duration": 1.306009,
+            "snr": 1.9659368007423605,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3998613094942476
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 17.240166439964856,
+          "duration": 0.82680149979058,
+          "value": {
+            "label": "oboe",
+            "source_file": "audio/soundbank/fore/oboe/oboe_C4_05_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 17.240166439964856,
+            "event_duration": 0.860998,
+            "snr": 3.5460809921720715,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9602827181835265
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 17.69586169858458,
+          "duration": 2.3907991338221235,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/fore/violin/violin_C6_15_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 17.69586169858458,
+            "event_duration": 1.645011,
+            "snr": 8.742602580397069,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.453363615089579
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 18.336858409493466,
+          "duration": 0.6144979599927064,
+          "value": {
+            "label": "boner",
+            "source_file": "audio/soundbank/fore/boner/trombone_C3_05_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 18.336858409493466,
+            "event_duration": 0.6,
+            "snr": -1.7749308763207914,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.0241632666545106
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 21.348040438418145,
+          "duration": 2.337458827513909,
+          "value": {
+            "label": "contrabassoon",
+            "source_file": "audio/soundbank/fore/contrabassoon/contrabassoon_C3_1_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 21.348040438418145,
+            "event_duration": 1.776009,
+            "snr": 9.771905461534582,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.316130057625783
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 22.86368471258185,
+          "duration": 0.9746045371726988,
+          "value": {
+            "label": "flute",
+            "source_file": "audio/soundbank/fore/flute/flute_C4_05_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 22.86368471258185,
+            "event_duration": 0.809002,
+            "snr": 6.820475460375043,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2046997871114025
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 24.687137126149203,
+          "duration": 8.337656841308235,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C3_very-long_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 24.687137126149203,
+            "event_duration": 6.451995,
+            "snr": 0.6537207236388043,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2922602762879132
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 33.3615156613606,
+          "duration": 0.9377527844306853,
+          "value": {
+            "label": "bass_clarinet",
+            "source_file": "audio/soundbank/fore/bass_clarinet/bass-clarinet_C3_05_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 33.3615156613606,
+            "event_duration": 0.626009,
+            "snr": 5.4810950206223765,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.497986106319055
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 37.97913867365598,
+          "duration": 0.706179641809371,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/fore/viola/viola_C6_05_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 37.97913867365598,
+            "event_duration": 0.679002,
+            "snr": -1.9921222363321327,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.0400258641496947
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 44.46733307635303,
+          "duration": 0.7423635265269632,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/fore/viola/viola_C7_1_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 44.46733307635303,
+            "event_duration": 0.626009,
+            "snr": 9.158262590667528,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1858671784702188
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 45.68404789684917,
+          "duration": 1.097300323885061,
+          "value": {
+            "label": "bass_clarinet",
+            "source_file": "audio/soundbank/fore/bass_clarinet/bass-clarinet_C4_15_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 45.68404789684917,
+            "event_duration": 1.907007,
+            "snr": 1.9634402181970874,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5754044551934319
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 46.38485757734343,
+          "duration": 2.553987535866387,
+          "value": {
+            "label": "bass_clarinet",
+            "source_file": "audio/soundbank/fore/bass_clarinet/bass-clarinet_C4_15_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 46.38485757734343,
+            "event_duration": 1.907007,
+            "snr": 1.3680907080606337,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.339264898275878
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 50.164945771868,
+          "duration": 0.5408837412491098,
+          "value": {
+            "label": "oboe",
+            "source_file": "audio/soundbank/fore/oboe/oboe_C4_05_fortissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 50.164945771868,
+            "event_duration": 0.966009,
+            "snr": 0.6334337889116881,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.559915840586485
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 52.29360369315403,
+          "duration": 0.781769747115639,
+          "value": {
+            "label": "trumpet",
+            "source_file": "audio/soundbank/fore/trumpet/trumpet_C4_025_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 52.29360369315403,
+            "event_duration": 0.705011,
+            "snr": -0.16025041039247512,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.108875956709383
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 52.58297860821344,
+          "duration": 0.16695643110003108,
+          "value": {
+            "label": "flute",
+            "source_file": "audio/soundbank/fore/flute/flute_C6_025_mezzo-piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 52.58297860821344,
+            "event_duration": 0.260998,
+            "snr": 8.125492639741884,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6396847144423753
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 54.83892727624486,
+          "duration": 1.1285865439094063,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/fore/viola/viola_C5_long_mezzo-forte_artificial-harmonic.mp3",
+            "source_time": 0.0,
+            "event_time": 54.83892727624486,
+            "event_duration": 1.383991,
+            "snr": 2.586316283349717,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8154580079707211
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 58.10771042385849,
+          "duration": 0.25025398000833654,
+          "value": {
+            "label": "flute",
+            "source_file": "audio/soundbank/fore/flute/flute_C5_025_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 58.10771042385849,
+            "event_duration": 0.287007,
+            "snr": 3.854787405441715,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8719438202146168
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 59.640054677425894,
+          "duration": 3.7379420026489636,
+          "value": {
+            "label": "mando",
+            "source_file": "audio/soundbank/fore/mando/mandolin_C4_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 59.640054677425894,
+            "event_duration": 2.899002,
+            "snr": 6.7821034476327675,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.289389245902198
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 60.268064228472035,
+          "duration": 0.2543633681452917,
+          "value": {
+            "label": "bassoon",
+            "source_file": "audio/soundbank/fore/bassoon/bassoon_C5_025_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 60.268064228472035,
+            "event_duration": 0.312993,
+            "snr": 4.022781547064467,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8126806930036509
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 60.777815250407045,
+          "duration": 1.4812008223228097,
+          "value": {
+            "label": "mando",
+            "source_file": "audio/soundbank/fore/mando/mandolin_C6_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 60.777815250407045,
+            "event_duration": 2.168005,
+            "snr": 6.449396724739042,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6832091357366841
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 61.67617596093424,
+          "duration": 1.1220830448550156,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/fore/cello/cello_C6_1_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 61.67617596093424,
+            "event_duration": 1.018005,
+            "snr": 5.083708335991851,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1022372629358554
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 61.80754698888584,
+          "duration": 0.8146124968030442,
+          "value": {
+            "label": "tuba",
+            "source_file": "audio/soundbank/fore/tuba/tuba_C3_15_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 61.80754698888584,
+            "event_duration": 1.018005,
+            "snr": 6.5835461931323085,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8002048092131612
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 62.675830840867604,
+          "duration": 1.1378361547979448,
+          "value": {
+            "label": "trumpet",
+            "source_file": "audio/soundbank/fore/trumpet/trumpet_C5_025_fortissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 62.675830840867604,
+            "event_duration": 0.835011,
+            "snr": -1.1332698991299779,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3626600784875227
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 62.8570332398958,
+          "duration": 0.993275278863105,
+          "value": {
+            "label": "flute",
+            "source_file": "audio/soundbank/fore/flute/flute_C7_05_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 62.8570332398958,
+            "event_duration": 0.809002,
+            "snr": -0.06373903482844101,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2277785207738732
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 63.66416265522809,
+          "duration": 3.831388867052136,
+          "value": {
+            "label": "mando",
+            "source_file": "audio/soundbank/fore/mando/mandolin_C5_very-long_piano_tremolo.mp3",
+            "source_time": 0.0,
+            "event_time": 63.66416265522809,
+            "event_duration": 2.872993,
+            "snr": -2.1884101597177965,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3335879575940963
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 64.7145809307932,
+          "duration": 0.6377082328904621,
+          "value": {
+            "label": "bass_clarinet",
+            "source_file": "audio/soundbank/fore/bass_clarinet/bass-clarinet_C4_1_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 64.7145809307932,
+            "event_duration": 0.94,
+            "snr": 3.092162326229152,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6784130137132576
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 66.54264848044721,
+          "duration": 0.5150590556278962,
+          "value": {
+            "label": "flute",
+            "source_file": "audio/soundbank/fore/flute/flute_C7_1_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 66.54264848044721,
+            "event_duration": 0.913991,
+            "snr": 9.63757813757626,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5635274916579006
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 68.4878879702245,
+          "duration": 2.0749975962573743,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/fore/viola/viola_C4_05_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 68.4878879702245,
+            "event_duration": 1.619002,
+            "snr": 3.272733509070621,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2816522748318866
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 69.12047270897945,
+          "duration": 1.7180018923641727,
+          "value": {
+            "label": "clarinet",
+            "source_file": "audio/soundbank/fore/clarinet/clarinet_C4_15_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 69.12047270897945,
+            "event_duration": 2.115011,
+            "snr": -0.6820257115136248,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8122898142677143
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 70.83425259678191,
+          "duration": 2.802860143691847,
+          "value": {
+            "label": "mando",
+            "source_file": "audio/soundbank/fore/mando/mandolin_C6_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 70.83425259678191,
+            "event_duration": 2.168005,
+            "snr": 2.873322204631706,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2928291879824296
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 71.09308590254672,
+          "duration": 0.4986042950854468,
+          "value": {
+            "label": "trumpet",
+            "source_file": "audio/soundbank/fore/trumpet/trumpet_C4_025_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 71.09308590254672,
+            "event_duration": 0.705011,
+            "snr": -2.221380974043261,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.707229100092689
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 73.3445141246205,
+          "duration": 0.686445985830956,
+          "value": {
+            "label": "bassoon",
+            "source_file": "audio/soundbank/fore/bassoon/bassoon_C3_15_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 73.3445141246205,
+            "event_duration": 1.331995,
+            "snr": 4.497321124356569,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5153517737160844
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 74.27522389895007,
+          "duration": 0.9143020605171075,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/fore/violin/violin_C4_05_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 74.27522389895007,
+            "event_duration": 0.966009,
+            "snr": 6.815788301159474,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9464736462259746
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 74.49311821733505,
+          "duration": 6.4232580345722505,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C6_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 74.49311821733505,
+            "event_duration": 4.831995,
+            "snr": 6.890516198111147,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3293180217637333
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 76.94846255139736,
+          "duration": 1.2356293731534533,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/fore/viola/viola_C3_1_piano_pizz-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 76.94846255139736,
+            "event_duration": 1.018005,
+            "snr": 8.685394731532691,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2137753480124884
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 81.7832535628154,
+          "duration": 4.972450475484251,
+          "value": {
+            "label": "banjo",
+            "source_file": "audio/soundbank/fore/banjo/banjo_C3_very-long_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 81.7832535628154,
+            "event_duration": 3.709002,
+            "snr": -0.4632225184598773,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.340643783822239
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 82.16605798493245,
+          "duration": 0.9662671916557279,
+          "value": {
+            "label": "bass_clarinet",
+            "source_file": "audio/soundbank/fore/bass_clarinet/bass-clarinet_C4_1_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 82.16605798493245,
+            "event_duration": 1.227007,
+            "snr": 8.897432386996972,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7874993310190798
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 82.60368543980074,
+          "duration": 1.4065934742390938,
+          "value": {
+            "label": "trumpet",
+            "source_file": "audio/soundbank/fore/trumpet/trumpet_C4_1_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 82.60368543980074,
+            "event_duration": 2.402993,
+            "snr": -2.926989240815285,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5853506332474101
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 90.40093824475302,
+          "duration": 6.631708990843955,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C6_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 90.40093824475302,
+            "event_duration": 4.831995,
+            "snr": 8.816745124602402,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3724577510622331
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 90.8519972464891,
+          "duration": 0.8333725352171535,
+          "value": {
+            "label": "tuba",
+            "source_file": "audio/soundbank/fore/tuba/tuba_C4_15_mezzo-piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 90.8519972464891,
+            "event_duration": 0.757007,
+            "snr": -1.8061940041676041,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.100878241835483
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 95.54528163850561,
+          "duration": 0.7065903280679294,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/fore/viola/viola_C7_025_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 95.54528163850561,
+            "event_duration": 0.548005,
+            "snr": 3.604297992271256,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2893866444064004
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 95.6635858415497,
+          "duration": 1.4833462567088473,
+          "value": {
+            "label": "bassoon",
+            "source_file": "audio/soundbank/fore/bassoon/bassoon_C4_15_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 95.6635858415497,
+            "event_duration": 1.043991,
+            "snr": -2.0410464795425387,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4208419964433099
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 97.6404863183338,
+          "duration": 0.9119553489642105,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/fore/violin/violin_C6_025_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 97.6404863183338,
+            "event_duration": 0.757007,
+            "snr": 2.650725476878188,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.204685490311464
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 98.90186507590104,
+          "duration": 3.802266858407382,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C6_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 98.90186507590104,
+            "event_duration": 4.831995,
+            "snr": 0.7036089331614113,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7868937899164593
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 99.92737161064267,
+          "duration": 1.4845226846429018,
+          "value": {
+            "label": "bassoon",
+            "source_file": "audio/soundbank/fore/bassoon/bassoon_C5_long_forte_major-trill.mp3",
+            "source_time": 0.0,
+            "event_time": 99.92737161064267,
+            "event_duration": 2.950998,
+            "snr": 8.696947865634714,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.503057841666752
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 104.36554423019282,
+          "duration": 0.8052966682834412,
+          "value": {
+            "label": "sax",
+            "source_file": "audio/soundbank/fore/sax/saxophone_C4_05_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 104.36554423019282,
+            "event_duration": 0.573991,
+            "snr": 7.156856679911888,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4029778660004095
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 105.01155106215813,
+          "duration": 0.8034329163927693,
+          "value": {
+            "label": "bassoon",
+            "source_file": "audio/soundbank/fore/bassoon/bassoon_C4_05_fortissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 105.01155106215813,
+            "event_duration": 1.383991,
+            "snr": 4.937523309700891,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5805188880511284
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 107.14232317492491,
+          "duration": 4.775533314398671,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C4_very-long_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 107.14232317492491,
+            "event_duration": 3.943991,
+            "snr": 5.978369626897747,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.210837781931721
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 108.11921881671401,
+          "duration": 1.8003730970248049,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C4_very-long_piano_harmonics.mp3",
+            "source_time": 0.0,
+            "event_time": 108.11921881671401,
+            "event_duration": 3.551995,
+            "snr": 9.348074871889642,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5068625088224519
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 109.22042449335677,
+          "duration": 4.595720411146119,
+          "value": {
+            "label": "banjo",
+            "source_file": "audio/soundbank/fore/banjo/banjo_C4_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 109.22042449335677,
+            "event_duration": 3.342993,
+            "snr": 7.653568410480316,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3747322866503517
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 110.68763643581404,
+          "duration": 1.8428372402491615,
+          "value": {
+            "label": "bassoon",
+            "source_file": "audio/soundbank/fore/bassoon/bassoon_C2_1_mezzo-piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 110.68763643581404,
+            "event_duration": 1.279002,
+            "snr": 8.715905028062842,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4408399988812852
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 112.07897520013509,
+          "duration": 1.8009696763409047,
+          "value": {
+            "label": "oboe",
+            "source_file": "audio/soundbank/fore/oboe/oboe_C5_15_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 112.07897520013509,
+            "event_duration": 1.540998,
+            "snr": 8.756308753655434,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.168703448246464
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 115.33787935778965,
+          "duration": 0.728129216113757,
+          "value": {
+            "label": "tuba",
+            "source_file": "audio/soundbank/fore/tuba/tuba_C3_05_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 115.33787935778965,
+            "event_duration": 0.861995,
+            "snr": 9.472510613575677,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8447023661549743
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 115.88362783367289,
+          "duration": 0.5302043232418214,
+          "value": {
+            "label": "boner",
+            "source_file": "audio/soundbank/fore/boner/trombone_C4_05_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 115.88362783367289,
+            "event_duration": 0.626009,
+            "snr": 9.873197138266661,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8469595856318701
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 119.21876155679699,
+          "duration": 5.107941230434449,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C4_very-long_piano_harmonics.mp3",
+            "source_time": 0.0,
+            "event_time": 119.21876155679699,
+            "event_duration": 3.551995,
+            "snr": 8.413167748053102,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4380485418573081
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 123.06843849811354,
+          "duration": 0.6978837274206118,
+          "value": {
+            "label": "sax",
+            "source_file": "audio/soundbank/fore/sax/saxophone_C6_05_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 123.06843849811354,
+            "event_duration": 0.6,
+            "snr": 2.2832928115118083,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1631395457010196
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 124.7356756426014,
+          "duration": 0.4720987247092669,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/fore/violin/violin_C4_025_mezzo-forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 124.7356756426014,
+            "event_duration": 0.679002,
+            "snr": 3.0120079977224385,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6952832608876953
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 128.11135969193606,
+          "duration": 0.3668203725119045,
+          "value": {
+            "label": "contrabassoon",
+            "source_file": "audio/soundbank/fore/contrabassoon/contrabassoon_C1_025_fortissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 128.11135969193606,
+            "event_duration": 0.548005,
+            "snr": 6.576053102963165,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6693741343818114
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 128.29741854778504,
+          "duration": 0.6592030461316768,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/fore/cello/cello_C6_025_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 128.29741854778504,
+            "event_duration": 0.47,
+            "snr": -0.5970740715354443,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4025596726205891
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 128.3371758049301,
+          "duration": 4.973299314269503,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C3_very-long_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 128.3371758049301,
+            "event_duration": 6.451995,
+            "snr": -1.1589021774615254,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7708157421494441
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 128.95879802143486,
+          "duration": 4.19801041545409,
+          "value": {
+            "label": "mando",
+            "source_file": "audio/soundbank/fore/mando/mandolin_C4_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 128.95879802143486,
+            "event_duration": 2.899002,
+            "snr": -1.2110645529395718,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4480881404890682
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 129.35084239561925,
+          "duration": 0.8938013885541926,
+          "value": {
+            "label": "flute",
+            "source_file": "audio/soundbank/fore/flute/flute_C5_05_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 129.35084239561925,
+            "event_duration": 0.835011,
+            "snr": -2.61729944940998,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.0704067234493828
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 132.56584239834905,
+          "duration": 0.309107416020032,
+          "value": {
+            "label": "bass_clarinet",
+            "source_file": "audio/soundbank/fore/bass_clarinet/bass-clarinet_C3_025_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 132.56584239834905,
+            "event_duration": 0.390998,
+            "snr": 7.534506138293239,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7905600949877799
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 133.63178687927729,
+          "duration": 2.4400378346323937,
+          "value": {
+            "label": "mando",
+            "source_file": "audio/soundbank/fore/mando/mandolin_C5_very-long_piano_tremolo.mp3",
+            "source_time": 0.0,
+            "event_time": 133.63178687927729,
+            "event_duration": 2.872993,
+            "snr": 6.897531439683684,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8493016984839133
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 133.76838714317063,
+          "duration": 0.66829944881267,
+          "value": {
+            "label": "boner",
+            "source_file": "audio/soundbank/fore/boner/trombone_C4_05_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 133.76838714317063,
+            "event_duration": 0.679002,
+            "snr": 5.88760658769097,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9842378208203658
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 141.37475129169206,
+          "duration": 1.2458306624326438,
+          "value": {
+            "label": "oboe",
+            "source_file": "audio/soundbank/fore/oboe/oboe_C4_1_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 141.37475129169206,
+            "event_duration": 1.252993,
+            "snr": 3.1774209302056304,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9942838167752284
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 143.44597151409815,
+          "duration": 3.3541571233326644,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C3_very-long_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 143.44597151409815,
+            "event_duration": 5.537007,
+            "snr": 4.894916736273853,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6057707933785643
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 143.53455740236944,
+          "duration": 2.0543698879726047,
+          "value": {
+            "label": "clarinet",
+            "source_file": "audio/soundbank/fore/clarinet/clarinet_C7_15_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 143.53455740236944,
+            "event_duration": 2.298005,
+            "snr": 5.764942711639646,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8939797293620356
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 144.99149397840853,
+          "duration": 0.6371255790702322,
+          "value": {
+            "label": "tuba",
+            "source_file": "audio/soundbank/fore/tuba/tuba_C1_long_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 144.99149397840853,
+            "event_duration": 1.097007,
+            "snr": 9.376338861649653,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5807853359825709
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 146.294798523267,
+          "duration": 0.4419452538985809,
+          "value": {
+            "label": "contrabassoon",
+            "source_file": "audio/soundbank/fore/contrabassoon/contrabassoon_C2_05_piano_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 146.294798523267,
+            "event_duration": 0.6,
+            "snr": -0.9356922425805183,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7365754231643016
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 147.17614074427033,
+          "duration": 0.48975741298518544,
+          "value": {
+            "label": "sax",
+            "source_file": "audio/soundbank/fore/sax/saxophone_C4_05_fortissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 147.17614074427033,
+            "event_duration": 0.6,
+            "snr": 1.920233354041617,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8162623549753091
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 149.157348552191,
+          "duration": 4.826580168826402,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C3_very-long_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 149.157348552191,
+            "event_duration": 6.451995,
+            "snr": -1.5150381411436014,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7480756213894154
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 149.51758241276536,
+          "duration": 2.2947746628417245,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/fore/violin/violin_C4_15_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 149.51758241276536,
+            "event_duration": 2.168005,
+            "snr": 7.2856497653401355,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.0584729568620572
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 149.80965296266154,
+          "duration": 0.5088483079413949,
+          "value": {
+            "label": "boner",
+            "source_file": "audio/soundbank/fore/boner/trombone_C4_025_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 149.80965296266154,
+            "event_duration": 0.390998,
+            "snr": 4.251823833410084,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3014089789241758
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 151.97298131644365,
+          "duration": 0.8186892868851063,
+          "value": {
+            "label": "boner",
+            "source_file": "audio/soundbank/fore/boner/trombone_C6_1_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 151.97298131644365,
+            "event_duration": 0.861995,
+            "snr": 6.066702423850883,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9497610622858675
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 153.4770753214342,
+          "duration": 1.4831820606003785,
+          "value": {
+            "label": "trumpet",
+            "source_file": "audio/soundbank/fore/trumpet/trumpet_C6_05_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 153.4770753214342,
+            "event_duration": 1.227007,
+            "snr": 9.482335540338216,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2087804393947048
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 155.2583259143038,
+          "duration": 0.5159517162472528,
+          "value": {
+            "label": "clarinet",
+            "source_file": "audio/soundbank/fore/clarinet/clarinet_C5_025_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 155.2583259143038,
+            "event_duration": 0.365011,
+            "snr": 5.933582273848458,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4135237465370982
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 155.56925042094502,
+          "duration": 1.7039389014905124,
+          "value": {
+            "label": "trumpet",
+            "source_file": "audio/soundbank/fore/trumpet/trumpet_C5_05_pianissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 155.56925042094502,
+            "event_duration": 1.175011,
+            "snr": 7.592957029561935,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.450147191379921
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 157.53748746115764,
+          "duration": 0.5558235412154324,
+          "value": {
+            "label": "bassoon",
+            "source_file": "audio/soundbank/fore/bassoon/bassoon_C4_025_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 157.53748746115764,
+            "event_duration": 0.548005,
+            "snr": -1.5616029688541753,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.0142672808011468
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 157.88820110901742,
+          "duration": 0.3206559896924719,
+          "value": {
+            "label": "bass_clarinet",
+            "source_file": "audio/soundbank/fore/bass_clarinet/bass-clarinet_C5_05_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 157.88820110901742,
+            "event_duration": 0.573991,
+            "snr": 8.510540300861894,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5586428875931363
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 158.9935945110854,
+          "duration": 3.371130380198068,
+          "value": {
+            "label": "banjo",
+            "source_file": "audio/soundbank/fore/banjo/banjo_C3_very-long_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 158.9935945110854,
+            "event_duration": 3.709002,
+            "snr": 6.454965367377598,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9089049777266414
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 159.2232911981206,
+          "duration": 0.5874045151722765,
+          "value": {
+            "label": "oboe",
+            "source_file": "audio/soundbank/fore/oboe/oboe_C5_025_forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 159.2232911981206,
+            "event_duration": 0.496009,
+            "snr": 6.358428205980978,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1842618080967817
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 162.4125980276835,
+          "duration": 0.5609800581456155,
+          "value": {
+            "label": "contrabassoon",
+            "source_file": "audio/soundbank/fore/contrabassoon/contrabassoon_C3_05_fortissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 162.4125980276835,
+            "event_duration": 0.626009,
+            "snr": 8.995821216809482,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8961213946534561
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 164.0648349559097,
+          "duration": 0.4704275960162748,
+          "value": {
+            "label": "bassoon",
+            "source_file": "audio/soundbank/fore/bassoon/bassoon_C3_05_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 164.0648349559097,
+            "event_duration": 0.365011,
+            "snr": 4.800371616382437,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2888038881465897
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 164.70590247821352,
+          "duration": 1.108781194835937,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/fore/violin/violin_C7_05_mezzo-forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 164.70590247821352,
+            "event_duration": 0.888005,
+            "snr": 3.9789626680832777,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.248620441141589
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 164.90702015629924,
+          "duration": 0.7827153154109264,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/fore/violin/violin_C7_025_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 164.90702015629924,
+            "event_duration": 0.573991,
+            "snr": 2.6822629182621602,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.363636913141367
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 168.10154056153482,
+          "duration": 1.2623952056832035,
+          "value": {
+            "label": "oboe",
+            "source_file": "audio/soundbank/fore/oboe/oboe_C5_15_mezzo-forte_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 168.10154056153482,
+            "event_duration": 1.540998,
+            "snr": -0.6931171542923433,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8192062583359637
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 169.92602856061745,
+          "duration": 6.509698007950517,
+          "value": {
+            "label": "guitar",
+            "source_file": "audio/soundbank/fore/guitar/guitar_C5_very-long_piano_harmonics.mp3",
+            "source_time": 0.0,
+            "event_time": 169.92602856061745,
+            "event_duration": 4.491995,
+            "snr": 2.9923706551778793,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4491774830449538
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 172.96265054208436,
+          "duration": 3.651974964165121,
+          "value": {
+            "label": "trumpet",
+            "source_file": "audio/soundbank/fore/trumpet/trumpet_C5_15_fortissimo_normal.mp3",
+            "source_time": 0.0,
+            "event_time": 172.96265054208436,
+            "event_duration": 2.768005,
+            "snr": 5.92025635466176,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3193527338878077
+          },
+          "confidence": 1.0
+        }
+      ],
+      "sandbox": {
+        "scaper": {
+          "duration": 180.0,
+          "fg_path": "audio/soundbank/fore/",
+          "bg_path": "audio/soundbank/background/",
+          "fg_spec": [
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ]
+          ],
+          "bg_spec": [
+            [
+              [
+                "const",
+                "water"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                180.0
+              ],
+              [
+                "const",
+                0
+              ],
+              "background",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "water"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                180.0
+              ],
+              [
+                "const",
+                0
+              ],
+              "background",
+              null,
+              null
+            ]
+          ],
+          "fg_labels": [
+            "banjo",
+            "bass_clarinet",
+            "bassoon",
+            "boner",
+            "cello",
+            "clarinet",
+            "contrabassoon",
+            "flute",
+            "guitar",
+            "mando",
+            "oboe",
+            "sax",
+            "trumpet",
+            "tuba",
+            "viola",
+            "violin"
+          ],
+          "bg_labels": [
+            "water",
+            "waves"
+          ],
+          "protected_labels": [],
+          "sr": 44100,
+          "ref_db": -30,
+          "n_channels": 1,
+          "fade_in_len": 0.01,
+          "fade_out_len": 0.01,
+          "n_events": 92,
+          "polyphony_max": 4,
+          "polyphony_gini": 0.5255838597229785,
+          "allow_repeated_label": true,
+          "allow_repeated_source": true,
+          "reverb": 0.5,
+          "scaper_version": "1.0.3"
+        }
+      },
+      "time": 0,
+      "duration": 180.0
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 180.0,
+    "identifiers": {},
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}

@@ -1,0 +1,4996 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "scaper",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 180.0,
+          "value": {
+            "label": "water",
+            "source_file": "audio/soundbank/background/water/9_long2.wav",
+            "source_time": 0,
+            "event_time": 0,
+            "event_duration": 180.0,
+            "snr": 0,
+            "role": "background",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 0.0,
+          "duration": 180.0,
+          "value": {
+            "label": "water",
+            "source_file": "audio/soundbank/background/water/6_long2.wav",
+            "source_time": 0,
+            "event_time": 0,
+            "event_duration": 180.0,
+            "snr": 0,
+            "role": "background",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 5.247888043314405,
+          "duration": 0.2201741205966642,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C7_1_mezzo-forte_arco-harmonic.mp3",
+            "source_time": 0.0,
+            "event_time": 5.247888043314405,
+            "event_duration": 0.390998,
+            "snr": -0.7534627839346242,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5631080481144768
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 5.464567928567173,
+          "duration": 0.8686150543217455,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C3_05_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 5.464567928567173,
+            "event_duration": 0.991995,
+            "snr": -1.47317790952524,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8756244278668194
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 8.011066855525614,
+          "duration": 1.0449814721002448,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C5_long_mezzo-forte_natural-harmonic.mp3",
+            "source_time": 0.0,
+            "event_time": 8.011066855525614,
+            "event_duration": 1.828005,
+            "snr": 4.328903367511901,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.571651320483393
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 14.156727073636974,
+          "duration": 2.4708776459169703,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C6_1_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 14.156727073636974,
+            "event_duration": 1.828005,
+            "snr": 5.145303900426786,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.351679916585004
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 14.222727008322359,
+          "duration": 1.4866600352107646,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C4_15_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 14.222727008322359,
+            "event_duration": 2.193991,
+            "snr": 9.79576786593745,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.677605348066954
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 14.583507436344153,
+          "duration": 1.362278920337218,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C6_15_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 14.583507436344153,
+            "event_duration": 1.645011,
+            "snr": 3.440609387559296,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8281275446408675
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 15.421584948992237,
+          "duration": 0.7054729513380646,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C4_025_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 15.421584948992237,
+            "event_duration": 1.07,
+            "snr": 7.805330036045014,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6593205152692193
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 16.904884732800134,
+          "duration": 0.6984132437830368,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_1_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 16.904884732800134,
+            "event_duration": 1.358005,
+            "snr": 6.539370863635657,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5142935731334103
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 17.130138967435112,
+          "duration": 1.1577130545945995,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C7_05_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 17.130138967435112,
+            "event_duration": 1.227007,
+            "snr": 9.648097024329532,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9435260390483505
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 21.394377028074473,
+          "duration": 0.897092950716822,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_025_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 21.394377028074473,
+            "event_duration": 0.94,
+            "snr": 2.459870801922797,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9543542028902363
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 23.742372653796366,
+          "duration": 1.2446677376488353,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C4_1_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 23.742372653796366,
+            "event_duration": 1.358005,
+            "snr": 1.161302063814663,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9165413512091896
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 25.11421231879793,
+          "duration": 1.9620167641559256,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C6_1_mezzo-forte_natural-harmonic.mp3",
+            "source_time": 0.0,
+            "event_time": 25.11421231879793,
+            "event_duration": 1.358005,
+            "snr": 8.113042946096654,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4447787483521237
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 25.63135742753567,
+          "duration": 0.4070013692328364,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C3_05_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 25.63135742753567,
+            "event_duration": 0.417007,
+            "snr": 6.21867818828631,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9760060843890783
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 28.095267719346623,
+          "duration": 1.5259056512806162,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C4_05_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 28.095267719346623,
+            "event_duration": 1.619002,
+            "snr": 2.9133382605360483,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9424976938142239
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 28.327523225546518,
+          "duration": 1.8215939930479852,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C3_15_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 28.327523225546518,
+            "event_duration": 2.010998,
+            "snr": -0.5378401270789817,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9058159148084609
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 29.31672141105932,
+          "duration": 1.6128379538566833,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C4_long_mezzo-forte_arco-harmonic.mp3",
+            "source_time": 0.0,
+            "event_time": 29.31672141105932,
+            "event_duration": 1.097007,
+            "snr": 3.7606570319075336,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4702166475297633
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 33.292799857481434,
+          "duration": 0.6674814221655815,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C7_025_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 33.292799857481434,
+            "event_duration": 0.548005,
+            "snr": 5.505696848921312,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2180206789455963
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 33.71566582978855,
+          "duration": 1.3073504805918963,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C6_1_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 33.71566582978855,
+            "event_duration": 1.175011,
+            "snr": 1.9327538520842706,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.112628290792083
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 38.18832400708121,
+          "duration": 1.2077687094674157,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C5_05_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 38.18832400708121,
+            "event_duration": 1.306009,
+            "snr": 4.539578442416506,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9247782438462642
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 40.033559392362164,
+          "duration": 1.4928648843922356,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C5_15_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 40.033559392362164,
+            "event_duration": 2.559002,
+            "snr": 0.9000368404183066,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5833777716438814
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 41.640211388904625,
+          "duration": 0.3425269187881213,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C6_025_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 41.640211388904625,
+            "event_duration": 0.339002,
+            "snr": 6.85600378596631,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.0103979291807166
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 42.49172840332314,
+          "duration": 0.7001673984129053,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C5_1_piano_arco-col-legno-tratto.mp3",
+            "source_time": 0.0,
+            "event_time": 42.49172840332314,
+            "event_duration": 1.122993,
+            "snr": 2.6211059647338253,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6234833150455127
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 43.196397737467684,
+          "duration": 0.9214162023672292,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C3_025_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 43.196397737467684,
+            "event_duration": 0.730998,
+            "snr": 2.6805543935764433,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2604907296151688
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 43.65171572702714,
+          "duration": 0.9133924543631132,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C6_1_piano_pizz-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 43.65171572702714,
+            "event_duration": 1.043991,
+            "snr": 9.325177222422239,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8749045292182723
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 45.945291665536274,
+          "duration": 0.8435498461046914,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C3_1_fortissimo_snap-pizz.mp3",
+            "source_time": 0.0,
+            "event_time": 45.945291665536274,
+            "event_duration": 1.018005,
+            "snr": 0.08437521249665325,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8286303565352737
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 46.58944941518473,
+          "duration": 0.4909223153094333,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C5_025_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 46.58944941518473,
+            "event_duration": 0.390998,
+            "snr": 8.376044221286106,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2555622159433892
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 46.689387630348875,
+          "duration": 1.387154241133166,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C7_1_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 46.689387630348875,
+            "event_duration": 0.94,
+            "snr": -0.40984960779123103,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.475696001205496
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 47.57893400188888,
+          "duration": 1.5542174080750033,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C7_05_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 47.57893400188888,
+            "event_duration": 1.227007,
+            "snr": 3.9282467943535515,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2666736278399418
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 48.65088716771632,
+          "duration": 1.1070418617316558,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C3_1_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 48.65088716771632,
+            "event_duration": 1.306009,
+            "snr": -1.8260045435107979,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8476525519591793
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 51.1933835284682,
+          "duration": 2.5302597714813904,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C5_15_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 51.1933835284682,
+            "event_duration": 2.246009,
+            "snr": 2.6136187061356404,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1265581622697818
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 51.519259050822406,
+          "duration": 0.30938575432176463,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C3_025_mezzo-forte_arco-col-legno-battuto.mp3",
+            "source_time": 0.0,
+            "event_time": 51.519259050822406,
+            "event_duration": 0.47,
+            "snr": 7.197860108637544,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6582675623867332
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 51.52916410483906,
+          "duration": 1.3680846417634986,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C7_05_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 51.52916410483906,
+            "event_duration": 1.175011,
+            "snr": -1.8495439320955813,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1643164547085079
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 54.191551221041216,
+          "duration": 0.6801851005304996,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C5_025_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 54.191551221041216,
+            "event_duration": 0.626009,
+            "snr": 0.5591931165750936,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.0865420473675291
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 64.63906152424596,
+          "duration": 1.0630712326410607,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C5_1_mezzo-forte_arco-harmonic.mp3",
+            "source_time": 0.0,
+            "event_time": 64.63906152424596,
+            "event_duration": 0.835011,
+            "snr": 3.464010594651741,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.273122429095019
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 66.19610458287966,
+          "duration": 0.6706322521144529,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C3_025_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 66.19610458287966,
+            "event_duration": 0.548005,
+            "snr": 3.704134393620187,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2237703161731242
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 67.3663611751517,
+          "duration": 0.9649212220642174,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_05_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 67.3663611751517,
+            "event_duration": 0.757007,
+            "snr": 0.9871661370992939,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2746529715897177
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 68.66094364496418,
+          "duration": 0.7351395557054919,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C7_1_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 68.66094364496418,
+            "event_duration": 0.626009,
+            "snr": -2.8316608294067547,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1743274548856197
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 68.69038903403307,
+          "duration": 0.18900585699211175,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C6_025_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 68.69038903403307,
+            "event_duration": 0.312993,
+            "snr": 5.987280969085937,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6038660832418352
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 70.9316520356633,
+          "duration": 0.9520125508588146,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C3_05_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 70.9316520356633,
+            "event_duration": 0.782993,
+            "snr": -1.4300846813460248,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2158634251632066
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 70.97142980660249,
+          "duration": 0.3121097451316562,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C3_025_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 70.97142980660249,
+            "event_duration": 0.496009,
+            "snr": -0.8329111130151019,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6292421007111891
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 73.52027959244565,
+          "duration": 0.7368240069012828,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C4_05_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 73.52027959244565,
+            "event_duration": 0.496009,
+            "snr": 3.1391699681063567,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4855053172448138
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 73.73850789839727,
+          "duration": 0.408212098563131,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C4_025_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 73.73850789839727,
+            "event_duration": 0.496009,
+            "snr": -1.0388090094075695,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8229933298854074
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 74.80894661603287,
+          "duration": 1.9534947876096198,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C5_long_mezzo-forte_molto-vibrato.mp3",
+            "source_time": 0.0,
+            "event_time": 74.80894661603287,
+            "event_duration": 2.925011,
+            "snr": -0.6603672005700232,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.667858954243119
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 75.40050274865392,
+          "duration": 0.5191353328008217,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C5_025_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 75.40050274865392,
+            "event_duration": 0.521995,
+            "snr": 0.7665823550612507,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9945216578718602
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 78.39048798099867,
+          "duration": 0.944331547538087,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C5_long_mezzo-forte_artificial-harmonic.mp3",
+            "source_time": 0.0,
+            "event_time": 78.39048798099867,
+            "event_duration": 1.383991,
+            "snr": -0.9955144111825946,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6823249194092209
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 79.44856174296226,
+          "duration": 0.6690954729289641,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_025_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 79.44856174296226,
+            "event_duration": 0.94,
+            "snr": 7.830548369538565,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.711803694605281
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 85.65412370135888,
+          "duration": 0.4779806311330876,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C3_025_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 85.65412370135888,
+            "event_duration": 0.913991,
+            "snr": 0.11972045436117629,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5229598881532614
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 87.1846486204132,
+          "duration": 0.7971819587712754,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C4_025_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 87.1846486204132,
+            "event_duration": 1.097007,
+            "snr": 1.41042076546292,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.726688123932915
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 89.11896264053044,
+          "duration": 0.7492135915846049,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C7_1_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 89.11896264053044,
+            "event_duration": 0.913991,
+            "snr": 5.100483308966984,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8197165963172557
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 96.41401005604102,
+          "duration": 0.48571552241076327,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C6_025_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 96.41401005604102,
+            "event_duration": 0.390998,
+            "snr": 9.497020390469972,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2422455419484582
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 97.74260792912006,
+          "duration": 0.4250545786547386,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C6_025_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 97.74260792912006,
+            "event_duration": 0.339002,
+            "snr": -2.9087335558466623,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2538409173242004
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 98.07685336674453,
+          "duration": 0.5181046701433695,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C4_05_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 98.07685336674453,
+            "event_duration": 0.573991,
+            "snr": 9.33190414224948,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.902635529378282
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 98.85966142838427,
+          "duration": 1.2409371232609232,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C7_15_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 98.85966142838427,
+            "event_duration": 1.853991,
+            "snr": 4.354282934009986,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6693328733855359
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 99.07781979896008,
+          "duration": 0.47388475556125204,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_05_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 99.07781979896008,
+            "event_duration": 0.860998,
+            "snr": 0.2153940221582782,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.550390077051575
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 99.39618742296216,
+          "duration": 1.4967926977868735,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C5_long_mezzo-forte_natural-harmonic.mp3",
+            "source_time": 0.0,
+            "event_time": 99.39618742296216,
+            "event_duration": 1.828005,
+            "snr": -1.0710585177552185,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8188121464585018
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 106.32969458371763,
+          "duration": 1.35387462583441,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C4_15_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 106.32969458371763,
+            "event_duration": 2.168005,
+            "snr": 9.404739892380874,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6244794757550882
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 111.88357656711408,
+          "duration": 1.1178543302335535,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C5_05_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 111.88357656711408,
+            "event_duration": 0.913991,
+            "snr": 2.973045353294631,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2230474153832516
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 112.63316739710557,
+          "duration": 0.7974229977611434,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C5_025_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 112.63316739710557,
+            "event_duration": 0.835011,
+            "snr": 4.46708654217074,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9549850214681525
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 114.05994631099747,
+          "duration": 0.8367503326067645,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C7_1_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 114.05994631099747,
+            "event_duration": 0.626009,
+            "snr": 0.2411268046007038,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3366426562665463
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 115.16059680665491,
+          "duration": 1.0284413671941663,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C7_05_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 115.16059680665491,
+            "event_duration": 1.227007,
+            "snr": 6.656956145604237,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8381707416454562
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 115.26951222814289,
+          "duration": 0.5553964215598611,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C5_1_mezzo-forte_arco-harmonic.mp3",
+            "source_time": 0.0,
+            "event_time": 115.26951222814289,
+            "event_duration": 0.835011,
+            "snr": -1.0605747904984497,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6651366527624919
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 117.52047844279062,
+          "duration": 0.6098015992960742,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C5_05_fortissimo_arco-au-talon.mp3",
+            "source_time": 0.0,
+            "event_time": 117.52047844279062,
+            "event_duration": 0.782993,
+            "snr": -1.901788317485876,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7788084941960838
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 118.38182569209165,
+          "duration": 0.9170760156866379,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_05_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 118.38182569209165,
+            "event_duration": 0.757007,
+            "snr": -1.450731564287862,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.2114498487948433
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 118.66823051225109,
+          "duration": 0.4978241900280165,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C6_1_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 118.66823051225109,
+            "event_duration": 0.966009,
+            "snr": 8.66140818996483,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5153411510948827
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 124.0405001414349,
+          "duration": 0.5803707781631565,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C6_05_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 124.0405001414349,
+            "event_duration": 0.809002,
+            "snr": 5.270366286091901,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7173910301373254
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 124.99040309128334,
+          "duration": 0.4840625194968983,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C6_05_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 124.99040309128334,
+            "event_duration": 0.730998,
+            "snr": 4.32297487960078,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6621940408823257
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 128.9671951900601,
+          "duration": 0.5160760742558779,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C4_05_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 128.9671951900601,
+            "event_duration": 0.835011,
+            "snr": -1.1698493386249138,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.6180470368125425
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 138.0508151693053,
+          "duration": 0.5358498334927541,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_1_piano_arco-major-trill.mp3",
+            "source_time": 0.0,
+            "event_time": 138.0508151693053,
+            "event_duration": 0.913991,
+            "snr": 9.870841401126501,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5862747373800771
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 138.69711425314173,
+          "duration": 1.0646323065167043,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C5_1_mezzo-piano_non-vibrato.mp3",
+            "source_time": 0.0,
+            "event_time": 138.69711425314173,
+            "event_duration": 1.776009,
+            "snr": 3.455384899133345,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5994520897792209
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 145.7732095971353,
+          "duration": 0.5839387462340193,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C3_05_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 145.7732095971353,
+            "event_duration": 0.705011,
+            "snr": 1.3858389896999679,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8282689862059163
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 150.61100255144095,
+          "duration": 0.5705414444456179,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C4_025_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 150.61100255144095,
+            "event_duration": 0.548005,
+            "snr": 9.61016843828874,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.041124523399637
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 150.92790499671867,
+          "duration": 3.318733236828328,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C6_15_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 150.92790499671867,
+            "event_duration": 2.298005,
+            "snr": 7.253762010684914,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4441801635889948
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 150.98856215055508,
+          "duration": 1.307948700538172,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_1_mezzo-piano_molto-vibrato.mp3",
+            "source_time": 0.0,
+            "event_time": 150.98856215055508,
+            "event_duration": 0.888005,
+            "snr": 1.9839933757878994,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.472906909913989
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 151.78336772695883,
+          "duration": 3.088410160601798,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C6_15_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 151.78336772695883,
+            "event_duration": 2.115011,
+            "snr": 8.361416046888431,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.4602336160907903
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 154.13826748720214,
+          "duration": 1.7456805462940603,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C3_1_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 154.13826748720214,
+            "event_duration": 1.515011,
+            "snr": 5.378586538111616,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1522560207774466
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 156.12418125143745,
+          "duration": 0.5832854215317469,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C4_05_mezzo-forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 156.12418125143745,
+            "event_duration": 0.991995,
+            "snr": -0.0028788876877570146,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5879922998923854
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 156.59063902543284,
+          "duration": 1.2253340944395026,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C6_1_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 156.59063902543284,
+            "event_duration": 0.94,
+            "snr": 5.233595818962646,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3035469089781944
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 156.6859860715038,
+          "duration": 1.1611111169890378,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C7_025_mezzo-forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 156.6859860715038,
+            "event_duration": 0.809002,
+            "snr": 5.9371972601088885,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.435238870842146
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 157.05110045224606,
+          "duration": 0.7799500757188886,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C4_025_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 157.05110045224606,
+            "event_duration": 1.07,
+            "snr": 1.4326499476368229,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.7289253044101762
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 159.59211230766329,
+          "duration": 2.1396420925662327,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C5_15_mezzo-piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 159.59211230766329,
+            "event_duration": 2.22,
+            "snr": -1.7811209106231876,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.9638027443992039
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 161.83073047593524,
+          "duration": 1.0154240707021287,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_05_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 161.83073047593524,
+            "event_duration": 0.757007,
+            "snr": 3.668757459443592,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.3413668178790008
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 163.0983112107009,
+          "duration": 0.8380393140570124,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C4_025_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 163.0983112107009,
+            "event_duration": 0.782993,
+            "snr": -2.771183702306934,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.0703024344496213
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 163.32119822346456,
+          "duration": 0.6245466099801151,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C6_05_forte_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 163.32119822346456,
+            "event_duration": 0.730998,
+            "snr": -2.236541717143104,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.8543752650214024
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 164.5780393065276,
+          "duration": 1.7806171876461467,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C3_1_piano_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 164.5780393065276,
+            "event_duration": 1.540998,
+            "snr": -0.2872030309282634,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1554961055407902
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 166.75723438329766,
+          "duration": 0.9390730321224814,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C2_1_piano_arco-major-trill.mp3",
+            "source_time": 0.0,
+            "event_time": 166.75723438329766,
+            "event_duration": 0.913991,
+            "snr": 9.969950173174936,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.027442318493816
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 169.06487748226292,
+          "duration": 0.5613778020749189,
+          "value": {
+            "label": "cello",
+            "source_file": "audio/soundbank/insturments/strings/cello/cello_C3_05_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 169.06487748226292,
+            "event_duration": 0.47,
+            "snr": -0.8601211646263951,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.194420855478551
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 170.35837934499648,
+          "duration": 1.2303783397309893,
+          "value": {
+            "label": "violin",
+            "source_file": "audio/soundbank/insturments/strings/violin/violin_C7_05_fortissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 170.35837934499648,
+            "event_duration": 1.07,
+            "snr": 7.320373159435011,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 1.1498862988140086
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 171.17458568983076,
+          "duration": 0.5710974412289738,
+          "value": {
+            "label": "viola",
+            "source_file": "audio/soundbank/insturments/strings/viola/viola_C4_1_pianissimo_arco-normal.mp3",
+            "source_time": 0.0,
+            "event_time": 171.17458568983076,
+            "event_duration": 1.07,
+            "snr": 0.7873868765940069,
+            "role": "foreground",
+            "pitch_shift": 0,
+            "time_stretch": 0.5337359263822185
+          },
+          "confidence": 1.0
+        }
+      ],
+      "sandbox": {
+        "scaper": {
+          "duration": 180.0,
+          "fg_path": "audio/soundbank/insturments/strings/",
+          "bg_path": "audio/soundbank/background/",
+          "fg_spec": [
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ],
+            [
+              [
+                "choose",
+                []
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "uniform",
+                5.0,
+                175.0
+              ],
+              [
+                "uniform",
+                14.0,
+                14.1
+              ],
+              [
+                "uniform",
+                -3,
+                10
+              ],
+              "foreground",
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                0.5,
+                1.5
+              ]
+            ]
+          ],
+          "bg_spec": [
+            [
+              [
+                "const",
+                "water"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                180.0
+              ],
+              [
+                "const",
+                0
+              ],
+              "background",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "water"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                180.0
+              ],
+              [
+                "const",
+                0
+              ],
+              "background",
+              null,
+              null
+            ]
+          ],
+          "fg_labels": [
+            "cello",
+            "viola",
+            "violin"
+          ],
+          "bg_labels": [
+            "water",
+            "waves"
+          ],
+          "protected_labels": [],
+          "sr": 44100,
+          "ref_db": -30,
+          "n_channels": 1,
+          "fade_in_len": 0.01,
+          "fade_out_len": 0.01,
+          "n_events": 88,
+          "polyphony_max": 4,
+          "polyphony_gini": 0.298770379503273,
+          "allow_repeated_label": true,
+          "allow_repeated_source": true,
+          "reverb": 0.5,
+          "scaper_version": "1.0.3"
+        }
+      },
+      "time": 0,
+      "duration": 180.0
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 180.0,
+    "identifiers": {},
+    "jams_version": "0.3.3"
+  },
+  "sandbox": {}
+}
